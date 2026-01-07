@@ -1,0 +1,8 @@
+langchain==1.2.0
+langchain-community
+langchain-openai
+langchain-chroma
+langchain-text-splitters
+python-dotenv
+chromadb
+openai
